@@ -17,6 +17,12 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 <br>
 <h2 align="center"> Documentación del proyecto </h2>
 
+|No.|Nombre |Potenciador |Estatus |
+|-- |-- |-- |-- |
+|21 |Implementación del encabezado de la aplicación de Yes/No |6 |⭐Activa |
+|22 |Implementación de la UI para la aplicación de Yes/No |7 |⭐Activa |
+|23 |Implementación autonoma de mensajes |10 |⭐Activa |
+
 ## Estructura de las carpetas 
 ![Captura1](https://github.com/user-attachments/assets/36827a1d-3151-41ef-a3d4-7d206de79f8c)
 
@@ -50,5 +56,6 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 | <img src="https://github.com/user-attachments/assets/0809984f-1de9-419e-8e4a-43ec8699809f"> |El método `moveScrollToBottom` mejora la experiencia de usuario al garantizar que los mensajes más recientes sean visibles sin requerir interacción manual, proporcionando un desplazamiento suave hacia la parte inferior de la lista.|
 
 ## Resultados
-![captura2](https://github.com/user-attachments/assets/2882fa4d-ed55-4f99-85ea-c2512a93ece5)
+![captura2](https://github.com/user-attachments/assets/ffb14209-0f9d-422d-a51f-ecb051e7ebf5)
+
 
