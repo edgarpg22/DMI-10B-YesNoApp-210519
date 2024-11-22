@@ -18,8 +18,7 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 <h2 align="center"> Documentación del proyecto </h2>
 
 ## Estructura de las carpetas 
-![Captura1](![image](https://github.com/user-attachments/assets/36827a1d-3151-41ef-a3d4-7d206de79f8c)
-)
+![Captura1](https://github.com/user-attachments/assets/36827a1d-3151-41ef-a3d4-7d206de79f8c)
 
 
 <br>
