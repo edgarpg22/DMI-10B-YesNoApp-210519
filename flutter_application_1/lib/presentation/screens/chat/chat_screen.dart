@@ -18,10 +18,10 @@ class ChatScreen extends StatelessWidget {
           padding: EdgeInsets.all(4.0),
           child: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfLNNbOs3LhTdhCmcazHVRO0dL04RF_swgng&s'),
+                'https://www.hola.com/horizon/square/a20372b6db07-danna-paola.jpg'),
           ),
         ),
-        title: const Text('Edgar'),
+        title: const Text('Danna'),
         centerTitle: false,
       ),
       body: _ChatView(),
