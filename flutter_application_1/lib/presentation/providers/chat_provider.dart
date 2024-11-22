@@ -8,7 +8,7 @@ class ChatProvider extends ChangeNotifier {
   final getYesNoAnswer = GetYesNoAnswer();
 
   List<Message> messageList = [
-    Message(text: 'Hola caracola mágica!!!', fromWho: FromWho.me),
+    Message(text: 'Hola...', fromWho: FromWho.me),
   ];
 
   Future<void> sendMessage(String text) async {
